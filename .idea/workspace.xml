@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce28b880-56ac-495f-8868-62bf0f1c1320" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/ReadexPro/ReadexPro-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/owl-carousel/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/owl-carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/owl-carousel/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Book.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Book.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Book.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-ExpandedRegular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Middle.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Middle.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Middle.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/BebasNeuePro/BebasNeuePro-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/PT Sans/PTSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/PT Sans/PTSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/font/Yrsa/Yrsa-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_basic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_basic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/assets/scss/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/dest/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/dest/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/dest/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/dest/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bato/templates/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bato/templates/home.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/themes/bato" />
+  </component>
+  <component name="ProjectId" id="2KDbf3pGHgjSMlFqGwzZ3ChE6ry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/myApp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce28b880-56ac-495f-8868-62bf0f1c1320" name="Default Changelist" comment="" />
+      <created>1673512206654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673512206654</updated>
+      <workItem from="1673512208346" duration="196000" />
+      <workItem from="1673604117776" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
